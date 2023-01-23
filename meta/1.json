@@ -1,1 +1,12 @@
-
+{
+    "name": "BEYOND KITZ CHAMPIONS TICKET",
+    "description": "The BEYOND KITZ CHAMPIONS TICKET gives you all access for BEYOND KITZ 2023, 2024 and 2025, access to the legendary finish house terrace during the award ceremony on race Saturday and other benefits!",
+    "image": "https://twire.mypinata.cloud/ipfs/Qmc9AyFugCdrx1ySRThLHfSiPwXwSBLtg7YCW1qoGaWXkg",
+    "external_url": "https://www.beyondkitz.com/",
+    "attributes": [
+        {
+            "trait_type": "Location",
+            "value": "Kitzbühel, Austria"
+        }
+    ]
+}
